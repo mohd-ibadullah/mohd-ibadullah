@@ -52,7 +52,7 @@ Multilingual phishing detection system with explainable ML scoring, browser exte
 Python • FastAPI • React • Docker • SecureBERT • MuRIL
 
 🔗 **[View Repository](https://github.com/mohd-ibadullah/PhishShield)**
-
+🚀 **[Live Demo](https://phish-shield-eta.vercel.app)**
 </td>
 
 <td width="50%" valign="top">
@@ -71,7 +71,7 @@ Full-stack music streaming platform with Socket.IO synchronization, Redis-backed
 React • Node.js • MongoDB • Redis • Socket.IO
 
 🔗 **[View Repository](https://github.com/mohd-ibadullah/MusicFlow)**
-
+🚀 **[Live Demo](https://music-flow-vqmp.vercel.app)**
 </td>
 </tr>
 </table>
