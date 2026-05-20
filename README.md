@@ -11,7 +11,7 @@ Diploma graduate (CSE) currently pursuing B.Tech in CSE (AI & ML) at KMIT, Hyder
 [GitHub](https://github.com/mohd-ibadullah/PhishShield) · [Live](https://phish-shield-eta.vercel.app)
 
 Trained on 18,684 samples using TF-IDF + SecureBERT + MuRIL. Improved
-real-world detection from 42% to ~85% by testing against 100 live emails.
+real-world detection from 42% to ~80–85% by testing against 100 live emails.
 FastAPI backend, SHAP/LIME explainability, Chrome Extension (MV3), Docker CI.
 
 Tech: Python · FastAPI · React · TypeScript · Docker · SecureBERT · MuRIL · SHAP
