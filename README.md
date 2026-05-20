@@ -1,126 +1,44 @@
-<div align="center">
+# Mohd Ibadullah
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:1a2a4a,100:63b3ed&height=200&section=header&text=Mohd%20Ibadullah&fontSize=48&fontColor=f7fafc&fontAlignY=38&desc=Backend%20Engineering%20%C2%B7%20AI%2FML%20Systems%20%C2%B7%20Real-time%20Architectures&descAlignY=58&descColor=a0aec0&descSize=14&animation=fadeIn" width="100%" />
-
-### Backend-focused engineering student interested in AI/ML systems, real-time architectures, and practical problem solving.
-
-![Profile Views](https://komarev.com/ghpvc/?username=mohd-ibadullah&style=flat-square&color=63b3ed&label=PROFILE+VIEWS)
-&nbsp;&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/mohd-ibadullah?style=flat-square&color=b794f4&label=FOLLOWERS)
-
-</div>
+Backend engineering student focused on AI/ML systems and real-time architectures.
+Currently pursuing B.Tech in CSE (AI & ML) at KMIT, Hyderabad.
 
 ---
 
-# 👨‍💻 About Me
+## Projects
 
-```python
-class Ibadullah:
-    focus = [
-        "Backend Systems",
-        "AI/ML Engineering",
-        "Security-Focused Applications",
-        "Real-time Architectures"
-    ]
+**PhishShield** — Multilingual phishing detection system
+[GitHub](https://github.com/mohd-ibadullah/PhishShield) · [Live](https://phish-shield-eta.vercel.app)
 
-    currently_learning = [
-        "System Design",
-        "MLOps",
-        "Distributed Systems"
-    ]
-```
+Trained on 18,684 samples using TF-IDF + SecureBERT + MuRIL. Improved
+real-world detection from 42% to ~85% by testing against 100 live emails.
+FastAPI backend, SHAP/LIME explainability, Chrome Extension (MV3), Docker CI.
+
+Tech: Python · FastAPI · React · TypeScript · Docker · SecureBERT · MuRIL · SHAP
 
 ---
 
-# 🚀 Featured Projects
+**MusicFlow** — Full-stack music streaming platform
+[GitHub](https://github.com/mohd-ibadullah/MusicFlow) · [Live](https://music-flow-vqmp.vercel.app)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+30+ REST APIs across two React apps (listener + admin). Redis cache-aside
+with in-memory fallback. Socket.IO real-time sync with duplicate-play prevention.
+Collaborative filtering recommendations. AI playlist generation (OpenAI, Anthropic,
+Gemini) constrained to MongoDB — no hallucinated tracks.
 
-## 🛡️ PhishShield
-
-Multilingual phishing detection system with explainable ML scoring, browser extension support, and real-world scam pattern detection.
-
-### Highlights
-- Multilingual phishing detection
-- Hybrid ML + rule-based pipeline
-- Explainable risk scoring
-- Browser extension integration
-
-### Tech
-Python • FastAPI • React • Docker • SecureBERT • MuRIL
-
-🔗 **[View Repository](https://github.com/mohd-ibadullah/PhishShield)**
-🚀 **[Live Demo](https://phish-shield-eta.vercel.app)**
-</td>
-
-<td width="50%" valign="top">
-
-## 🎵 MusicFlow
-
-Full-stack music streaming platform with Socket.IO synchronization, Redis-backed caching, AI playlist generation, and admin analytics.
-
-### Highlights
-- Real-time synchronization
-- Redis-backed caching
-- AI-assisted playlist generation
-- Admin analytics dashboard
-
-### Tech
-React • Node.js • MongoDB • Redis • Socket.IO
-
-🔗 **[View Repository](https://github.com/mohd-ibadullah/MusicFlow)**
-🚀 **[Live Demo](https://music-flow-vqmp.vercel.app)**
-</td>
-</tr>
-</table>
+Tech: React 19 · Node.js · Express · MongoDB · Redis · Socket.IO · JWT · Cloudinary
 
 ---
 
-# 🛠️ Tech Stack
+## Tech
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=63b3ed)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f6ad55)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=4fc3f7)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=68d391)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=68d391)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=68d391)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=f6853a)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=63b3ed)
-
-</div>
+Python · FastAPI · Node.js · Express · React · TypeScript · MongoDB · Redis ·
+Socket.IO · Docker · JWT · GitHub Actions · Scikit-learn · HuggingFace Transformers
 
 ---
 
-# 📈 GitHub Activity
+## Contact
 
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=mohd-ibadullah&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-# 📫 Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=63b3ed)](https://www.linkedin.com/in/mohd-ibadullah-12a046280)
-
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=f6853a)](mailto:mohdibadullah13@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=a0aec0)](https://github.com/mohd-ibadullah)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:63b3ed,50:1a2a4a,100:0a0e1a&height=120&section=footer" width="100%" />
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/mohd-ibadullah-4786b640a) ·
+[Email](mailto:mohdibadullah13@gmail.com) ·
+[GitHub](https://github.com/mohd-ibadullah)
