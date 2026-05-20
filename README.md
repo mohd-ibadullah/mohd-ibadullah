@@ -1,7 +1,7 @@
 # Mohd Ibadullah
 
 Backend engineering student focused on AI/ML systems and real-time architectures.
-Currently pursuing B.Tech in CSE (AI & ML) at KMIT, Hyderabad.
+Diploma graduate (CSE) currently pursuing B.Tech in CSE (AI & ML) at KMIT, Hyderabad through lateral entry.
 
 ---
 
@@ -23,8 +23,7 @@ Tech: Python · FastAPI · React · TypeScript · Docker · SecureBERT · MuRIL 
 
 30+ REST APIs across two React apps (listener + admin). Redis cache-aside
 with in-memory fallback. Socket.IO real-time sync with duplicate-play prevention.
-Collaborative filtering recommendations. AI playlist generation (OpenAI, Anthropic,
-Gemini) constrained to MongoDB — no hallucinated tracks.
+Collaborative filtering recommendations. AI playlist generation using provider-agnostic intent parsing constrained to MongoDB retrieval — no hallucinated tracks.
 
 Tech: React 19 · Node.js · Express · MongoDB · Redis · Socket.IO · JWT · Cloudinary
 
