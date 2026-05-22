@@ -9,12 +9,12 @@ Diploma graduate (CSE) currently pursuing B.Tech in CSE (AI & ML) at KMIT, Hyder
 
 | Project | Live | GitHub | Highlights |
 |--------|------|--------|------------|
-| **PhishShield** | [Demo](https://phish-shield-eta.vercel.app) | [Repo](https://github.com/mohd-ibadullah/PhishShield) | 18,684 samples · 97.19% offline · ~80–85% on 100 live emails · SHAP/LIME · Chrome MV3 |
+| **PhishShield** | [Demo](https://phish-shield-eta.vercel.app) | [Repo](https://github.com/mohd-ibadullah/PhishShield) | 18,684 samples · 97.19% offline · ~80–85% on 100 live emails · fast explainability (SHAP optional) · Chrome MV3 |
 | **MusicFlow** | [Demo](https://music-flow-vqmp.vercel.app) | [Repo](https://github.com/mohd-ibadullah/MusicFlow) | 30+ REST APIs · Helmet.js · rate limiting · Socket.IO · Redis · collaborative filtering |
 
 ### PhishShield — Multilingual phishing detection
 
-Trained on **18,684** samples (TF-IDF + SecureBERT + MuRIL). Improved real-world detection from **42% → ~80–85%** on **100 live emails** (20+ edge cases fixed). FastAPI backend, SHAP/LIME explainability, Chrome Extension (MV3), Docker CI.
+Trained on **18,684** samples (TF-IDF + SecureBERT + MuRIL). Improved real-world detection from **42% → ~80–85%** on **100 live emails** (20+ edge cases fixed). FastAPI backend, fast explainability (SHAP optional), Chrome Extension (MV3), Docker CI.
 
 **Tech:** Python · FastAPI · React · TypeScript · Docker · SecureBERT · MuRIL · SHAP · SQLite · Drizzle ORM · Zod · pnpm
 
