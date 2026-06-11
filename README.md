@@ -9,7 +9,7 @@ Diploma graduate (CSE) → B.Tech CSE (AI & ML) at KMIT, Hyderabad (lateral entr
 
 | Project | Live | GitHub | Highlights |
 |---------|------|--------|------------|
-| **Prompt Injection Detection** | — | [Repo](https://github.com/mohd-ibadullah/prompt-injection-detection) | 3-model ensemble · 95.26% recall · hybrid remediation · 99.84% utility · Zenodo preprint |
+| **Prompt Injection Detection** | - | [Repo](https://github.com/mohd-ibadullah/prompt-injection-detection) | 3-model ensemble · 95.26% recall · hybrid remediation · 99.84% utility · Zenodo preprint |
 | **PhishShield** | [Demo](https://phish-shield-eta.vercel.app) | [Repo](https://github.com/mohd-ibadullah/PhishShield) | 18,684 samples · 97.19% offline · ~80–85% on 100 live emails · SHAP · Chrome MV3 |
 | **MusicFlow** | [Demo](https://music-flow-vqmp.vercel.app) | [Repo](https://github.com/mohd-ibadullah/MusicFlow) | 30+ REST APIs · Helmet.js · Socket.IO · Redis · collaborative filtering |
 
